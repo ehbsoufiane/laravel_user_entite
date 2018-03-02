@@ -1,6 +1,6 @@
 # laravel_user_entite
 
-# Trouble shouting 
+# Trouble shooting 
 
 
 - Create a database locally named homestead utf8_general_ci
